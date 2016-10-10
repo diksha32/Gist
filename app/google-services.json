@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "795096379707",
+    "firebase_url": "https://gist-d99b4.firebaseio.com",
+    "project_id": "gist-d99b4",
+    "storage_bucket": "gist-d99b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795096379707:android:c4482c29a5074122",
+        "android_client_info": {
+          "package_name": "com.gist.hp.above"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795096379707-po76b4ba7vkd880g0sh2754i013sjvmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{"current_key": "AIzaSyBYmdOGkMfc34nTmsgbpexLZXiLIy2Sv_k" }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
